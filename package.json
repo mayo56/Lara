@@ -1,0 +1,27 @@
+{
+  "name": "lara",
+  "version": "1.0.0",
+  "description": "Discord music bot",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayo56/Lara.git"
+  },
+  "keywords": [
+    "discord-bot",
+    "bot",
+    "music"
+  ],
+  "author": "Mayo56",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayo56/Lara/issues"
+  },
+  "homepage": "https://github.com/mayo56/Lara#readme",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  }
+}
